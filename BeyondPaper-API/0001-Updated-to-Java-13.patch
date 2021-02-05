@@ -1,0 +1,27 @@
+From 383ab0fea6df42df1ca13ecc36e2c0ab2efb7774 Mon Sep 17 00:00:00 2001
+From: chaosfreak93 <yanluca.lentzen@gmail.com>
+Date: Fri, 5 Feb 2021 16:29:45 +0100
+Subject: [PATCH] Updated to Java 13
+
+---
+ pom.xml | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/pom.xml b/pom.xml
+index 5088c33..2b36418 100644
+--- a/pom.xml
++++ b/pom.xml
+@@ -19,8 +19,8 @@
+ 
+     <properties>
+         <!-- <skipTests>true</skipTests> Paper - This [was] not going to end well -->
+-        <maven.compiler.source>1.8</maven.compiler.source>
+-        <maven.compiler.target>1.8</maven.compiler.target>
++        <maven.compiler.source>13</maven.compiler.source>
++        <maven.compiler.target>13</maven.compiler.target>
+         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+     </properties>
+ 
+-- 
+2.24.1.windows.2
+
