@@ -24,7 +24,7 @@ How To (Plugin Developers)
  * See our API patches [here](Spigot-API-Patches)
  * See upcoming, pending, and recently added API [here](https://github.com/PaperMC/Paper/projects/6)
  * Paper API javadocs here: [papermc.io/javadocs](https://papermc.io/javadocs/)
- * Maven Repo (for paper-api):
+ * Maven Repo (for beyondpaper-api):
 ```xml
 <repository>
     <id>papermc</id>
@@ -35,7 +35,7 @@ How To (Plugin Developers)
 ```xml
 <dependency>
     <groupId>com.destroystokyo.paper</groupId>
-    <artifactId>paper-api</artifactId>
+    <artifactId>beyondpaper-api</artifactId>
     <version>1.14.4-R0.1-SNAPSHOT</version>
     <scope>provided</scope>
  </dependency>

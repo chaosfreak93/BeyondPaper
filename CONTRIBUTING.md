@@ -11,7 +11,7 @@ Please target major feature additions and API additions to the master branch whe
 are working to make 1.13 the best it can be.
 
 ## Understanding Patches
-Patches to Paper are very simple, but center around the directories 'Paper-API' and 'Paper-Server'
+Patches to Paper are very simple, but center around the directories 'BeyondPaper-API' and 'BeyondPaper-Server'
 
 Assuming you already have forked the repository:
 
