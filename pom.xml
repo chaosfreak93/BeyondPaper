@@ -5,11 +5,11 @@
 
     <!-- Avoid making changes to this file, it has to be deployed manually -->
     <groupId>com.destroystokyo.paper</groupId>
-    <artifactId>paper-parent</artifactId>
+    <artifactId>beyondpaper-parent</artifactId>
     <version>dev-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <name>Paper-Parent</name>
+    <name>BeyondPaper-Parent</name>
     <description>Parent project for all Paper modules.</description>
     <url>https://github.com/PaperMC/Paper</url>
 
