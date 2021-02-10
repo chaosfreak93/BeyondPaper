@@ -3,10 +3,9 @@ Paper [![Build Status](https://papermc.io/ci/job/Paper-1.14/badge/icon)](https:/
 
 High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies.
 
-
 **Support and Project Discussion:**
- - [IRC](http://irc.spi.gt/iris/?channels=paper) or [Discord](https://discord.gg/papermc)
 
+- [IRC](http://irc.spi.gt/iris/?channels=paper) or [Discord](https://discord.gg/papermc)
 
 How To (Server Admins)
 ------
@@ -16,22 +15,26 @@ Download Paper from our [downloads page](https://papermc.io/downloads).
 
 Run the Paperclip jar directly from your server. Just like old times
 
-  * Documentation on using Paper: [paper.readthedocs.io](https://paper.readthedocs.io/)
-  * For a sneak peak on upcoming features, [see here](https://github.com/PaperMC/Paper/projects)
+* Documentation on using Paper: [paper.readthedocs.io](https://paper.readthedocs.io/)
+* For a sneak peak on upcoming features, [see here](https://github.com/PaperMC/Paper/projects)
 
 How To (Plugin Developers)
 ------
- * See our API patches [here](Spigot-API-Patches)
- * See upcoming, pending, and recently added API [here](https://github.com/PaperMC/Paper/projects/6)
- * Paper API javadocs here: [papermc.io/javadocs](https://papermc.io/javadocs/)
- * Maven Repo (for beyondpaper-api):
+
+* See our API patches [here](Spigot-API-Patches)
+* See upcoming, pending, and recently added API [here](https://github.com/PaperMC/Paper/projects/6)
+* Paper API javadocs here: [papermc.io/javadocs](https://papermc.io/javadocs/)
+* Maven Repo (for beyondpaper-api):
+
 ```xml
 <repository>
     <id>papermc</id>
     <url>https://papermc.io/repo/repository/maven-public/</url>
 </repository>
 ```
- * Artifact Information:
+
+* Artifact Information:
+
 ```xml
 <dependency>
     <groupId>com.destroystokyo.paper</groupId>
@@ -56,4 +59,7 @@ Special Thanks To:
 
 ![YourKit-Logo](https://www.yourkit.com/images/yklogo.png)
 
-[YourKit](http://www.yourkit.com/), makers of the outstanding java profiler, support open source projects of all kinds with their full featured [Java](https://www.yourkit.com/java/profiler/index.jsp) and [.NET](https://www.yourkit.com/.net/profiler/index.jsp) application profilers. We thank them for granting Paper an OSS license so that we can make our software the best it can be.
+[YourKit](http://www.yourkit.com/), makers of the outstanding java profiler, support open source projects of all kinds
+with their full featured [Java](https://www.yourkit.com/java/profiler/index.jsp)
+and [.NET](https://www.yourkit.com/.net/profiler/index.jsp) application profilers. We thank them for granting Paper an
+OSS license so that we can make our software the best it can be.
