@@ -1,6 +1,6 @@
 [submodule "beyondpaper-server"]
 	path = BeyondPaper-Server
-	url = git@github.com:chaosfreak93/beyondpaper-server.git
+	url = https://github.com/chaosfreak93/beyondpaper-server.git
 [submodule "beyondpaper-api"]
 	path = BeyondPaper-API
-	url = git@github.com:chaosfreak93/beyondpaper-api.git
+	url = https://github.com/chaosfreak93/beyondpaper-api.git
