@@ -1,15 +1,6 @@
-[submodule "work/Bukkit"]
-	path = work/Bukkit
-	url = https://hub.spigotmc.org/stash/scm/spigot/bukkit.git
-[submodule "work/CraftBukkit"]
-	path = work/CraftBukkit
-	url = https://hub.spigotmc.org/stash/scm/spigot/craftbukkit.git
-[submodule "work/BuildData"]
-	path = work/BuildData
-	url = https://hub.spigotmc.org/stash/scm/spigot/builddata.git
-[submodule "work/Spigot"]
-	path = work/Spigot
-	url = https://hub.spigotmc.org/stash/scm/spigot/spigot.git
-[submodule "work/Paperclip"]
-	path = work/Paperclip
-	url = https://github.com/PaperMC/Paperclip.git
+[submodule "beyondpaper-server"]
+	path = BeyondPaper-Server
+	url = https://github.com/chaosfreak93/beyondpaper-server
+[submodule "beyondpaper-api"]
+	path = BeyondPaper-API
+	url = https://github.com/chaosfreak93/beyondpaper-api
