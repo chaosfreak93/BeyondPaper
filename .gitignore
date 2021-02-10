@@ -43,7 +43,5 @@ out/
 # other stuff
 run/
 
-Paperclip.jar
-paperclip.jar
-paperclip-*.jar
-paperclip.properties
+BeyondPaper-Server/
+BeyondPaper-API/
