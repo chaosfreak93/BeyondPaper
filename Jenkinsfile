@@ -6,7 +6,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                sh 'mvn clean install'
+                sh 'mvn -Drevision=1.0.3 clean install'
             }
             post {
                 success {
@@ -16,7 +16,7 @@ pipeline {
         }
         stage('Deploy') {
             steps {
-                sh 'mvn deploy -DskipTests'
+                sh 'mvn -Drevision=1.0.3 deploy -DskipTests'
             }
         }
     }
