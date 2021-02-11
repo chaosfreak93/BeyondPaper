@@ -18,6 +18,13 @@
     </modules>
 
     <build>
+        <extensions>
+            <extension>
+                <groupId>org.apache.maven.wagon</groupId>
+                <artifactId>wagon-ftp</artifactId>
+                <version>3.4.2</version>
+            </extension>
+        </extensions>
         <defaultGoal>clean install</defaultGoal>
     </build>
 
