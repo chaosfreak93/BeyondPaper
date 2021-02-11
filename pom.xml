@@ -5,7 +5,7 @@
     <!-- Avoid making changes to this file, it has to be deployed manually -->
     <groupId>de.beyonddark.beyondpaper</groupId>
     <artifactId>beyondpaper-parent</artifactId>
-    <version>${revision}</version>
+    <version>dev-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>BeyondPaper-Parent</name>
