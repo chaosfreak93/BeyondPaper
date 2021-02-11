@@ -5,7 +5,7 @@
     <!-- Avoid making changes to this file, it has to be deployed manually -->
     <groupId>de.beyonddark.beyondpaper</groupId>
     <artifactId>beyondpaper-parent</artifactId>
-    <version>${revision}</version>
+    <version>1.0.3</version>
     <packaging>pom</packaging>
 
     <name>BeyondPaper-Parent</name>
@@ -32,7 +32,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>13</maven.compiler.source>
         <maven.compiler.target>13</maven.compiler.target>
-        <revision>1.0.3</revision>
+        <revision>${project.version}</revision>
     </properties>
 
     <repositories>
